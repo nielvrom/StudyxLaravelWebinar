@@ -1,2 +1,1 @@
-# StudyxLaravelWebinar
-Codevoorbeeld Studyx Laravel Webinar
+# Studyx | Laravel Webinar
